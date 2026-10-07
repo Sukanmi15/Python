@@ -1,0 +1,31 @@
+age = 19
+print(age)
+
+# convocation_list = ["Davido", "Burna", "Rema", "Badoo"]
+
+def greet(name):
+    print("Congratulation to you, my dear" + name)
+
+    greet(convocation_list[3])
+    greet(convocation_list[1])
+
+
+    def avg(a, b):
+        print((a+b)/2)
+
+        avg(10,20)
+        def average(a, b):
+            return(a+ b)/2
+        #print(avg(10, 20))
+        #print(average(20, 30))
+
+    
+            
+        
+            
+            
+
+
+
+
+
