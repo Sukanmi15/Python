@@ -1,2 +1,3 @@
-# Instruction 
-install python
+# Steps
+Install Vs code
+Install python extensions
